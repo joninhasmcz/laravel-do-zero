@@ -1,0 +1,1 @@
+Essa é a pagina da cateogira: {{$slug}}
