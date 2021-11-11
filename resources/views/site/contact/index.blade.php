@@ -1,1 +1,8 @@
-AQUI È O CONTATO
+@extends('layouts.site')
+
+
+
+
+@section('content')
+
+@endsection

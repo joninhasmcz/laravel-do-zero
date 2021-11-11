@@ -1,1 +1,8 @@
-ESTA é a PAGINA DO BLOG
+@extends('layouts.site')
+
+
+
+
+@section('content')
+
+@endsection

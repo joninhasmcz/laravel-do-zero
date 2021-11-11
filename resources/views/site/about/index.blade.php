@@ -1,1 +1,8 @@
-ESTA E A PAGINA SOBRE
+@extends('layouts.site')
+
+
+
+
+@section('content')
+
+@endsection
